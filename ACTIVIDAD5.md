@@ -119,17 +119,17 @@ El resultado de $(4-1) \times -8 \div (5-(4+1)-1) = 24$
 Ubicar en el plano cartesiano (eje Real, eje Imaginario) los siguientes números complejos:
 
 $19)$ $-2 + 3i$
-
+![Ejercicio 19](Ej19.jpeg)
 $20)$ $1 - 2i$
-
+![Ejercicio 20](Ej20.jpeg)
 $21)$ $-4 + 3i$
-
+![Ejercicio 21](Ej21.jpeg)
 $22)$ $3 + i$
-
+![Ejercicio 22](Ej22.jpeg)
 $23)$ $-4 - 4i$
-
+![Ejercicio 23](Ej23.jpeg)
 $24)$ $-2 - i$
-
+![Ejercicio 24](Ej24.jpeg)
 **Resuelve las siguientes operaciones con los números complejos**
 
 $25)$ $(-7-4i)-(2+i)$
