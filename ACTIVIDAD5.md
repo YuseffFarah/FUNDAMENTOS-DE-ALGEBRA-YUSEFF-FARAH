@@ -119,16 +119,27 @@ El resultado de $(4-1) \times -8 \div (5-(4+1)-1) = 24$
 Ubicar en el plano cartesiano (eje Real, eje Imaginario) los siguientes números complejos:
 
 $19)$ $-2 + 3i$
+
 ![Ejercicio 19](Ej19.jpeg)
+
 $20)$ $1 - 2i$
+
 ![Ejercicio 20](Ej20.jpeg)
+
 $21)$ $-4 + 3i$
+
 ![Ejercicio 21](Ej21.jpeg)
+
 $22)$ $3 + i$
+
 ![Ejercicio 22](Ej22.jpeg)
+
 $23)$ $-4 - 4i$
+
 ![Ejercicio 23](Ej23.jpeg)
+
 $24)$ $-2 - i$
+
 ![Ejercicio 24](Ej24.jpeg)
 **Resuelve las siguientes operaciones con los números complejos**
 
@@ -182,26 +193,32 @@ Resultado: $96+168i$
 
 $37)$ $\dfrac{10-7i}{1+3i}$
 
+![Ejercicio 37](Ej37.jpeg)
 Resultado: $-1.1 - 3.7i$
 
 $38)$ $\dfrac{4+2i}{-1-10i}$
 
+![Ejercicio 38](Ej38.jpeg)
 Resultado: $-0.23 + 0.37i$
 
 $39)$ $\dfrac{1+4i}{-1-6i}$
 
+![Ejercicio 39](ej39.jpeg)
 Resultado: $-0.67 + 0.05i$
 
 $40)$ $\dfrac{-8+4i}{1+i}$
 
+![Ejercicio 40](Ej40.jpeg)
 Resultado: $-4+12i$
 
 $41)$ $\dfrac{-10+8i}{6+i}$
 
+![Ejercicio 41](Ej41.jpeg)
 Resultado: $-1.40 + 1.56i$
 
 $42)$ $\dfrac{2-2i}{4-10i}$
 
+![Ejercicio 42](Ej42.jpeg)
 Resultado: $0.24 + 0.10i$
 
 **Calcula el valor absoluto de los siguientes números complejos**
@@ -312,28 +329,35 @@ Resultado: $-3$
 
 $67)$ 2 raíces cuadradas de $4(\cos30+i\,\text{sen}30)$
 
+![Ejercicio 67](=Ej67.jpeg)
 $2(\cos15+i\,\text{sen}15)$
 $2(\cos195+i\,\text{sen}195)$
 
 $68)$ 2 raíces cuadradas de $3(\cos90+i\,\text{sen}90)$
 
+![Ejercicio 68](Ej68.jpeg)
 $1.73(\cos45+i\,\text{sen}45)$
 $1.73(\cos225+i\,\text{sen}225)$
 
 $69)$ 3 raíces cúbicas de $-4\sqrt{2}+4i\sqrt{2}$
 
+![Ejercicio 69](Ej69.jpeg)
+![Ejercicio 69](Ej69.2.jpeg)
 $2(\cos45+i\,\text{sen}45)$
 $2(\cos165+i\,\text{sen}165)$
 $2(\cos285+i\,\text{sen}285)$
 
 $70)$ 3 raíces cúbicas de $-\dfrac{27}{8}$
 
+![Ejercicio 70](Ej70.jpeg)
 $1.5(\cos60°+i\,\text{sen}60°)$
 $1.5(\cos180+i\,\text{sen}180)$
 $1.5(\cos300+i\,\text{sen}300)$
 
 $71)$ 5 raíces de $-32i$
 
+![Ejercicio 71](Ej71.jpeg)
+![Ejercicio 71](Ej71.2.jpeg)
 $2(\cos54+i\,\text{sen}54)$
 $2(\cos126+i\,\text{sen}126)$
 $2(\cos198+i\,\text{sen}198)$
@@ -342,6 +366,7 @@ $2(\cos342+i\,\text{sen}342)$
 
 $72)$ 6 raíces de $729$
 
+![Ejercicio 72](Ej72.jpeg)
 $3(\cos0+i\,\text{sen}0)$
 $3(\cos60+i\,\text{sen}60)$
 $3(\cos120+i\,\text{sen}120)$
