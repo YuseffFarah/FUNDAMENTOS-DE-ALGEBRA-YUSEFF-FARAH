@@ -184,7 +184,7 @@ $41)$ $\dfrac{-10+8i}{6+i}$
 Resultado: $-1.40 + 1.56i$
 
 $42)$ $\dfrac{2-2i}{4-10i}$
-Resultado: $0.24 + 0.01i$
+Resultado: $0.24 + 0.10i$
 
 **Calcula el valor absoluto de los siguientes números complejos**
 
@@ -273,8 +273,8 @@ $2(\cos15+i\,\text{sen}15)$
 $2(\cos195+i\,\text{sen}195)$
 
 $68)$ 2 raíces cuadradas de $3(\cos90+i\,\text{sen}90)$
-$\sqrt{3}(\cos45+i\,\text{sen}45)$
-$\sqrt{3}(\cos225+i\,\text{sen}225)$
+$\sqrt{1.73}(\cos45+i\,\text{sen}45)$
+$\sqrt{1.73}(\cos225+i\,\text{sen}225)$
 
 $69)$ 3 raíces cúbicas de $-4\sqrt{2}+4i\sqrt{2}$
 $2(\cos45+i\,\text{sen}45)$
