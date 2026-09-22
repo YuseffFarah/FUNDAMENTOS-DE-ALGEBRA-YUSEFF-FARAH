@@ -373,3 +373,133 @@ $3(\cos120+i\,\text{sen}120)$
 $3(\cos180+i\,\text{sen}180)$
 $3(\cos240+i\,\text{sen}240)$
 $3(\cos300+i\,\text{sen}300)$
+
+**Realiza las conversiones de binario a decimal**
+
+$73)$ $00001111$
+
+Resultado: $15$
+
+$74)$ $10011001$
+
+Resultado: $153$
+
+$75)$ $11001100$
+
+Resultado: $204$
+
+$76)$ $01111011$
+
+Resultado: $123$
+
+$77)$ $00000000 11111111$
+
+Resultado: $255$
+
+$78)$ $00000010 00000000$
+
+Resultado: $512$
+
+**Convierte de binario a octal**
+
+$79)$ $11010101$
+
+Resultado: $325$
+
+$80)$ $01101110$
+
+Resultado: $156$
+
+$81)$ $10110011$
+
+Resultado: $263$
+
+$82)$ $00000000 11111111$
+
+Resultado: $377$
+
+$83)$ $00000011 11000000$
+
+Resultado: $1700$
+
+$84)$ $00000101 01010101$
+
+Resultado: $2525$
+
+**Convierte de binario a hexadecimal**
+
+$85)$ $11011010$
+
+Resultado: $DA$
+
+$86)$ $01111100$
+
+Resultado: $7C$
+
+$87)$ $10110101$
+
+Resultado: $B5$
+
+$88)$ $11110000 10100101$
+
+Resultado: $F0A5$
+
+$89)$ $00001111 00001111$
+
+Resultado: $0F0F$
+
+$90)$ $10000000 00000001$
+
+Resultado: $8001$
+
+**Convierte de octal a binario**
+
+$91)$ $325$
+
+Resultado: $11010101$
+
+$92)$ $156$
+
+Resultado: $01101110$
+
+$93)$ $377$
+
+Resultado: $11111111$
+
+$94)$ $01777$
+
+Resultado: $00000011 11111111$
+
+$95)$ $03700$
+
+Resultado: $00000111 11000000$
+
+$96)$ $05255$
+
+Resultado: $00001010 10101101$
+
+**Convierte de hexadecimal a binario**
+
+$97)$ $DA$
+
+Resultado: $11011010$
+
+$98)$ $7C$
+
+Resultado: $01111100$
+
+$99)$ $B5$
+
+Resultado: $10110101$
+
+$100)$ $F0A5$
+
+Resultado: $11110000 10100101$
+
+$101)$ $0F0F$
+
+Resultado: $00001111 00001111$
+
+$102)$ $8001$
+
+Resultado: $10000000 00000001$
