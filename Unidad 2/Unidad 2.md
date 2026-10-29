@@ -331,34 +331,35 @@ Resultado: $x^2(5x^4-2x^2+10)$
 
 $81)$ $x-y=0$
 
-Resultado: 
+Resultado: $y = x$ grafica con puntos en $(-1,-1), (0,0), (1,1)$
 
 $82)$ $x+4y=-8$
 
-Resultado: 
+Resultado: $y= (-8 - x)/4$ con puntos en (-1, -7/4), (0, -2), (1, -9/4)
 
 $83)$ $7x+y=2$
 
-Resultado: 
+Resultado: $y=2 - 7x$ con puntos en $(-1,9), (0,2), (1,-5)$
 
 $84)$ $2x-y=-1$
 
-Resultado: 
+Resultado: $y= 1 + 2x$ con puntos en $(-1,-1), (0,1), (1,3)$
 
 $85)$ $x-y=-1$
 
-Resultado: 
+Resultado: $y= x + 1$ con puntos en $(-1,0), (0,1), (1,2)$
 
 $86)$ $x+5y=0$
 
-Resultado: 
+Resultado: $y= -x/5$ con puntos en $(-1,-0.2), (0,0), (1,0.2)
 
 $87)$ $6x-5y=25$
 
-Resultado:
+Resultado: $y= (25- 6x)/5$ con puntos en $(-1,-6.2), (0,-5), (1,-3.8)$
+
 $88)$ $7x+y=-3$
 
-Resultado:
+Resultado: $y= -3 - 7x$ con puntos en $(-1,4), (0,-3), (1,-10)$
 
 **Resuelve las siguientes ecuaciones**
 
